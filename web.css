@@ -1,0 +1,319 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    box-sizing: border-box;
+}
+
+.contenar {
+    display: block;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+/* 1 */
+/* Remarkably Cleaner start */
+/*  start img  */
+.remarkblock {
+    display: block;
+}
+
+.remarkblock .remarkinner {
+    display: block;
+    position: absolute;
+}
+
+.remarkblock .remarkinner .remarkcol {
+    display: block;
+}
+
+.remarkblock .remarkinner .remarkcol .remarkoutar {
+    display: block;
+}
+
+.remarkblock .remarkinner .remarkcol .remarkoutar>img {
+    display: block;
+    width: 100%;
+}
+
+/*  end img  */
+/*  start canten  */
+.cantenblock {
+    display: block;
+}
+
+.cantenblock .canteninner {
+    display: block;
+}
+
+.cantenblock .canteninner .cantencol {
+    display: block;
+}
+
+.cantenblock .canteninner .cantencol .cantenoutar {
+    display: block;
+}
+
+.cantenblock .canteninner .cantencol .cantenoutar>h2 {
+    display: block;
+    position: relative;
+    font-size: 50px;
+    color: azure;
+    padding-top: 20%;
+    padding-left: 70px;
+    font-weight: 400;
+}
+
+.cantenblock .canteninner .cantencol .cantenoutar>p {
+    position: relative;
+    color: azure;
+    margin-left: 70px;
+    font-size: 20px;
+    margin-top: 2%;
+}
+
+.cantenblock .canteninner .cantencol .cantenoutar>button {
+    background-color: azure;
+    position: relative;
+    border-radius: 20px;
+    border: 2px solid azure;
+    width: 200px;
+    height: 50px;
+    margin-top: 2%;
+    margin-left: 60px;
+}
+
+.cantenblock .canteninner .cantencol .cantenoutar>button:hover {
+    background-color: black;
+    color: aliceblue;
+
+}
+
+/*  end canten  */
+/* from start */
+.fromblock {
+    display: block;
+    background-color: cornsilk;
+}
+
+.fromblock .frominner {
+    display: block;
+}
+
+.fromblock .frominner .fromcol {
+    display: block;
+}
+
+.fromblock .frominner .fromcol .fromoutar {
+    display: block;
+}
+
+.fromblock .frominner .fromcol .fromoutar table {
+    position: relative;
+    width: 70%;
+    background-color: rgb(259, 234, 145);
+    /* border: 2px solid black; */
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.fromblock .frominner .fromcol .fromoutar table>h5 {
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+.fromblock .frominner .fromcol .fromoutar table td {
+    margin: 30%;
+    padding: 5%;
+
+}
+
+.fromblock .frominner .fromcol .fromoutar table td>input {
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.fromblock .frominner .fromcol .fromoutar table td .service {
+    width: 250%;
+}
+
+.fromblock .frominner .fromcol .fromoutar table .button {
+    height: 50px;
+    width: 100%;
+    border-radius: 50px;
+    color: aliceblue;
+    background-color: black;
+    border: 2px solid black;
+}
+
+.fromblock .frominner .fromcol .fromoutar table td button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+/* from end */
+/* Remarkably Cleaner end */
+
+/* 2 */
+/* Shiny happy clients start  */
+/* start heding block */
+.Shinyhappy {
+    display: block;
+    background-color: cornsilk;
+}
+
+.Shinyblock {
+    display: block;
+}
+
+.Shinyblock .Shinyinner {
+    display: block;
+}
+
+.Shinyblock .Shinyinner .Shinycol {
+    display: block;
+}
+
+.Shinyblock .Shinyinner .Shinycol .Shinyoutar {
+    display: block;
+}
+
+.Shinyblock .Shinyinner .Shinycol .Shinyoutar>p {
+    display: block;
+    font-size: 50px;
+}
+
+/* end heding block */
+/* start 4 block */
+.happyblock {
+    display: block;
+    margin-top: 30px;
+}
+
+.happyblock .happyinner {
+    display: flex;
+    width: 100%;
+}
+
+.happyblock .happyinner .happycol {
+    display: block;
+    padding: 10px;
+    width: 25%;
+}
+
+.happyblock .happyinner .happycol .happyoutar {
+    display: block;
+    height: 350px;
+    background-color: rgb(259, 234, 145);
+}
+
+.happyblock .happyinner .happycol .happyoutar>span {
+    display: block;
+    font-size: 27px;
+    margin-left: 20px;
+    padding-top: 100px;
+}
+
+.happyblock .happyinner .happycol .happyoutar p {
+    display: block;
+    color: rgba(0, 0, 0, 0.735);
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.happyblock .happyinner .happycol .happyoutar>h2 {
+    display: block;
+    color: rgba(0, 0, 0, 0.735);
+    font-weight: 200;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+/* end 4 block */
+/* Shiny happy clients end  */
+
+/* 3 */
+/* For Anything You Need start  */
+/* For Anything You Need  cnten start  */
+.ForAnything {
+    display: block;
+    color: aliceblue;
+    background-color: #4c5b5c;
+}
+
+.Forblock {
+    display: block;
+}
+
+.Forblock .Forinner {
+    display: block;
+}
+
+.Forblock .Forinner .Forcol {
+    display: block;
+}
+
+.Forblock .Forinner .Forcol .Foroutar {
+    display: block;
+}
+
+.Forblock .Forinner .Forcol .Foroutar>h2 {
+    display: block;
+    font-weight: 200;
+    font-size: 40px;
+    padding-top: 150px;
+    text-align: center;
+}
+
+.Forblock .Forinner .Forcol .Foroutar>span {
+    display: block;
+    font-size: 25px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* For Anything You Need  canten end  */
+/* For Anything You Need  img start   */
+.Needblock {
+    display: block;
+}
+
+.Needblock .Needinner {
+    display: flex;
+    width: 100%;
+}
+
+.Needblock .Needinner .Needcol {
+    display: block;
+    width: 33.33%;
+}
+
+.Needblock .Needinner .Needcol .Needoutar {
+    display: block;
+    margin-top: 70px;
+}
+.Needblock .Needinner .Needcol .Needoutar>span {
+    display: block;
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 50px;
+    color:beige;
+    font-size: 20px;
+    z-index: 1;
+}
+.Needblock .Needinner .Needcol .Needoutar>img {
+    display: block;
+    padding: 10px;
+    width: 100%;
+    position: relative;
+}
+/* For Anything You Need  img end   */
+/* For Anything You Need  end */
